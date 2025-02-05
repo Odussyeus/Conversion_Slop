@@ -1,0 +1,58 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 26159
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = jewish
+		size= 456
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = jewish
+		size= 12627
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = jewish
+		size= 6409
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = jewish
+		size= 768
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = jewish
+		size= 297
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = jewish
+		size= 128
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = jewish
+		size= 59
+	}
+
+}
