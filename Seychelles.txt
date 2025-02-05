@@ -1,0 +1,100 @@
+2127 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 6835
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 3194
+	}
+
+}

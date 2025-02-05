@@ -1,0 +1,542 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5809
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 915
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 32259
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 3823
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 1072
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 906
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 68
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 47
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 1090
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 959
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 201
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10143
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 296
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 70145
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 2077
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 5951
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 552
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 357
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 161
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 88
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 1011
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 6101
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 166
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 366
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5029
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 226
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 26378
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 672
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 331
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 276
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 2611
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1104
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 83
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 464
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4344
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 264
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 31237
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 1524
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 129
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 333
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4302
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 170
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 30932
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 1480
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 310
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 125
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 323
+	}
+
+}
